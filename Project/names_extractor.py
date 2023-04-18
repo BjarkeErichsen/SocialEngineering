@@ -1,6 +1,40 @@
 import requests
 import csv
+import re
 import unicodedata
+
+import wikipedia
+
+def clean_gpt_csv(gpt_file):
+    names_dict = {}
+
+    # Open the CSV file
+    "influencers_and_influenced_names.csv"
+    with open(gpt_file, 'r') as csv_file:
+        csv_reader = csv.DictReader(csv_file)
+
+        # Iterate over each row in the CSV file
+        for row in csv_reader:
+            # Clean the 'from' column by removing underscores and converting to lowercase
+            from_name_clean = row['from'].replace("_", "").lower()
+
+            # Extract the names from the 'to' column
+            to_names_raw = row['to'].split('\n')
+            to_names_clean = []
+            for name in to_names_raw:
+                # Check if the string contains the '. ' separator
+                if '. ' in name:
+                    # Extract the name following the number and period, remove underscores, and convert to lowercase
+                    name = name.split('. ')[1].replace("_", "").lower()
+                    to_names_clean.append(name)
+
+            # Create a dictionary entry with the cleaned 'from' name as the key and the 'to' names as the value
+            names_dict[from_name_clean] = to_names_clean
+
+    print(names_dict)
+    return names_dict
+
+clean_gpt_csv("influencers_and_influenced_names.csv")
 
 def get_wikipedia_article_text(title, language='en'):
     base_url = f'https://{language}.wikipedia.org/w/api.php'
@@ -25,15 +59,6 @@ def get_wikipedia_article_text(title, language='en'):
 
     text = data['query']['pages'][page_id]['extract']
     return text
-
-def extract_id(string, type):
-    start = string.rfind("/") + 1
-    if type == "int":
-        end = string.find('.jpg')
-        return int(string[start:end])
-    elif type == "csv":
-        end = string.find('.csv')
-        return str(string[start:end])
 
 def extract_name(string):
     start = 0
@@ -61,6 +86,7 @@ def remove_accents(input_str):
     return no_accent
 
 outliers = ["Vania Jordanova", "Antal Istvan Jakli"]
+specific_outliers = ["Abu_Rayhan_Al-biruni"]
 
 def clean_name(string):
     string = remove_accents(string)
@@ -71,6 +97,7 @@ def clean_name(string):
     for outlier in outliers:
         if outlier in string:
             string = outlier
+
     if string == "Charlotte (nee Riefenstahl) Houtermans":
         return "Charlotte Houtermans"
     if string == "Pu (Paul) Wang":
@@ -90,14 +117,20 @@ def clean_article(text):
     print(text_list)
 
     text_list = [s for s in text_list if "Abdulla Majed" not in s]
+
     with open('output.csv', mode='w', newline='') as file:
         writer = csv.writer(file)
         for string in text_list:
             writer.writerow([string])
-
-
     return text_list
-article_title = 'List_of_physicists'
-article_text = get_wikipedia_article_text(article_title)
 
-print(clean_article(article_text))
+# article_title = 'List_of_physicists'
+
+# article_text = get_wikipedia_article_text(article_title)
+# text_list = clean_article(article_text)
+# results_list = []
+# for name in text_list:
+#     results_list.append(wikipedia.search(name)[0])
+#
+# print(results_list)
+
