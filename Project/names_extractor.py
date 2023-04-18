@@ -15,23 +15,19 @@ def clean_gpt_csv(gpt_file):
 
         # Iterate over each row in the CSV file
         for row in csv_reader:
-            # Clean the 'from' column by removing underscores and converting to lowercase
-            from_name_clean = row['from'].replace("_", "").lower()
+            # Extract the names from the 'to' column using regular expression
+            raw_to_names = re.findall('\d+\.\s(\w+\s?\w+)', row['to'])
+            clean_to_names = []
+            for raw_name in raw_to_names:
+                clean_to_names.append(raw_name.lower())
+            # Create a dictionary entry with the 'from' column as the key and the 'to' names as the value
+            raw_from_name = row['from']
+            clean_from_name = raw_from_name.lower().replace("_", " ")
+            names_dict[clean_from_name] = clean_to_names
 
-            # Extract the names from the 'to' column
-            to_names_raw = row['to'].split('\n')
-            to_names_clean = []
-            for name in to_names_raw:
-                # Check if the string contains the '. ' separator
-                if '. ' in name:
-                    # Extract the name following the number and period, remove underscores, and convert to lowercase
-                    name = name.split('. ')[1].replace("_", "").lower()
-                    to_names_clean.append(name)
-
-            # Create a dictionary entry with the cleaned 'from' name as the key and the 'to' names as the value
-            names_dict[from_name_clean] = to_names_clean
-
+    print(len(names_dict))
     print(names_dict)
+
     return names_dict
 
 clean_gpt_csv("influencers_and_influenced_names.csv")
