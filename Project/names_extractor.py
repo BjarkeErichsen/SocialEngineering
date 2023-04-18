@@ -61,6 +61,7 @@ def remove_accents(input_str):
     return no_accent
 
 outliers = ["Vania Jordanova", "Antal Istvan Jakli"]
+
 def clean_name(string):
     string = remove_accents(string)
     string = extract_name(string)
@@ -72,6 +73,8 @@ def clean_name(string):
             string = outlier
     if string == "Charlotte (nee Riefenstahl) Houtermans":
         return "Charlotte Houtermans"
+    if string == "Pu (Paul) Wang":
+        return "Wang Pu (physicist)"
     return string
 
 def clean_article(text):
@@ -85,10 +88,14 @@ def clean_article(text):
 
     text_list = [clean_name(s) for s in text_list]
     print(text_list)
+
+    text_list = [s for s in text_list if "Abdulla Majed" not in s]
     with open('output.csv', mode='w', newline='') as file:
         writer = csv.writer(file)
         for string in text_list:
             writer.writerow([string])
+
+
     return text_list
 article_title = 'List_of_physicists'
 article_text = get_wikipedia_article_text(article_title)
