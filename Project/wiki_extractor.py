@@ -2,7 +2,6 @@ import requests
 from tqdm import tqdm
 import json
 import wikipedia
-
 import requests
 from bs4 import BeautifulSoup
 
