@@ -129,4 +129,3 @@ def clean_article(text):
 #     results_list.append(wikipedia.search(name)[0])
 #
 # print(results_list)
-
