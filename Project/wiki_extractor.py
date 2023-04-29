@@ -4,12 +4,13 @@ import json
 import wikipedia
 import requests
 from bs4 import BeautifulSoup
-
+import pickle
+from urllib.parse import urlparse
+import multiprocessing as mp
 
 def save_dict_txt(dictionary_to_save, text_name):
     with open(text_name, 'w', encoding='utf-8') as file:
         json.dump(dictionary_to_save, file, ensure_ascii=False)
-
 
 def load_dict_txt(input_txt):
     with open(input_txt, 'r', encoding='utf-8') as file:
@@ -21,7 +22,6 @@ def load_dict_txt(input_txt):
         id_to_name_dict[key] = value
 
     return id_to_name_dict
-
 
 def load_dict_json(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -43,6 +43,54 @@ def find_wiki_page_id(title):
     # Extract the pageid value from the response
     pageid = next(iter(data["query"]["pages"])).split()[0]
     return pageid
+
+def find_wiki_title_from_id(pageid):
+
+    if pageid ==  '-1':
+        return "Non existing page (Pageid = -1)"
+    # Specify the Wikipedia API endpoint and parameters
+    wiki_api_endpoint = "https://en.wikipedia.org/w/api.php"
+    params = {
+        "action": "query",
+        "prop": "info",
+        "format": "json",
+        "pageids": pageid
+    }
+
+    # Make a GET request to the Wikipedia API
+    response = requests.get(wiki_api_endpoint, params=params)
+
+    # Parse the JSON response to retrieve the page title
+    page_data = response.json()["query"]["pages"][pageid]
+    page_title = page_data["title"]
+    return page_title
+
+def find_wiki_page_id_from_url(url):
+    parsed_url = urlparse(url)
+    title = parsed_url.path.split("/")[-1]
+    api_url = f"https://{parsed_url.netloc}/w/api.php"
+    params = {
+        "action": "query",
+        "format": "json",
+        "titles": title,
+        "prop": "info"
+    }
+    # Make the API request
+    response = requests.get(api_url, params=params)
+    data = response.json()
+
+    # Extract the pageid value from the response
+    pageid = next(iter(data["query"]["pages"])).split()[0]
+    return pageid
+
+def count_occurrences(lst):
+    counts = {}
+    for elem in lst:
+        if elem in counts:
+            counts[elem] += 1
+        else:
+            counts[elem] = 1
+    return [(elem, counts[elem]) for elem in counts]
 
 def extract_names_from_list():
     # Specify the URL and parameters for the API request
@@ -83,106 +131,74 @@ def extract_names_from_list():
             if pageid != -1:
                 f.write(f"{pageid},{title}\n")
 
-# extract_names_from_list()
+def get_physicist_social_network(name, base_url, id_to_name_dict, list_valid_ids):
+    title_list = []
+
+    url = "https://en.wikipedia.org/w/api.php"
+    params = {
+        "action": "parse",
+        "format": "json",
+        "page": name,
+        "prop": "text",
+        "redirects": 1,
+    }
+
+    try:
+        response = requests.get(url, params=params)
+        data = response.json()
+        html = data["parse"]["text"]["*"]
+
+        soup = BeautifulSoup(html, 'html.parser')
+
+        # Remove navboxes
+        for navbox in soup.find_all('div', {'class': 'navbox'}):
+            navbox.decompose()
+
+        # Extract links
+        for link in soup.find_all('a', href=True):
+            href = link['href']
+            if href.startswith('/wiki/'):
+                full_url = f'{base_url}{href}'
+                page_id = find_wiki_page_id_from_url(full_url)
+                if page_id in list_valid_ids:
+
+                    linked_physicist = id_to_name_dict[page_id]
+
+                    title_list.append(linked_physicist)
+
+    except Exception as e:
+        print(f"Error processing {name}: {e}")
+
+    return (name, count_occurrences(title_list))
+
 
 def the_social_network(input_txt, output_txt):
     influence_dict = {}
-
     id_to_name_dict = load_dict_txt(input_txt)
     name_to_id_dict = {value: key for key, value in id_to_name_dict.items()}
 
     save_dict_txt(id_to_name_dict, "id_to_name_dict.txt")
     save_dict_txt(name_to_id_dict, "name_to_id_dict.txt")
 
-    list_valid_ids = id_to_name_dict.keys()
+    base_url = 'https://en.wikipedia.org'
+    list_valid_ids = set(id_to_name_dict.keys())
 
-    for physicist_name in tqdm(id_to_name_dict.values()):
-        physicist_id = name_to_id_dict[physicist_name]
-        title_list = []
+    with mp.Pool() as pool:
+        results = []
+        for physicist_name in id_to_name_dict.values():
+            results.append(pool.apply_async(get_physicist_social_network,
+                                            (physicist_name, base_url, id_to_name_dict, list_valid_ids)))
 
-        # if len(influence_dict)>50:
-        #     break
-        # #simpler code:
-
-        # links_on_page = wikipedia.page(physicist_name).links
-        # for link in links_on_page:
-        #     try:
-        #         page_id = name_to_id_dict[link]
-        #         print("link found:   ", page_id, link)
-        #         title_list.append((page_id, link))
-        #     except KeyError:
-        #         pass
-        # print("found links: ", title_list)
-        # influence_dict[physicist_id] = title_list
-
-        # #simple code:
-        # links_on_page = wikipedia.page(physicist_name).links
-        # for link in links_on_page:
-        #     page_id = find_wiki_page_id(link)
-        #     if page_id in list_valid_ids:
-        #         # print("link found:   ", page_id, link)
-        #         title_list.append((page_id, link))
-        # print("found links: ", title_list)
-        # influence_dict[physicist_id] = title_list
-
-        #complicated code:
-
-        url = "https://en.wikipedia.org/w/api.php"
-        session = requests.Session()
-        params = {
-            "action": "query",
-            "format": "json",
-            "titles": physicist_name,
-            "prop": "links",
-            "pllimit": "max"
-        }
-
-        response = session.get(url=url, params=params)
-        data = response.json()
-        pages = data["query"]["pages"]
-
-        pg_count = 1
-
-
-        for key, val in pages.items():
-            for link in val["links"]:
-                try:
-                    title = link["title"]
-                    page_id = name_to_id_dict[title]
-                    if page_id in list_valid_ids:
-                        title_list.append(title)
-                except KeyError:
-                    pass
-
-        # while False:
-        while "continue" in data:
-            plcontinue = data["continue"]["plcontinue"]
-            params["plcontinue"] = plcontinue
-            response = session.get(url=url, params=params)
-            data = response.json()
-            pages = data["query"]["pages"]
-
-            pg_count += 1
-
-            # print("\nPage %d" % pg_count)
-            for key, val in pages.items():
-                for link in val["links"]:
-                    try:
-                        title = link["title"]
-                        page_id = name_to_id_dict[title]
-                        if page_id in list_valid_ids:
-                            title_list.append(title)
-                    except KeyError:
-                        pass
-
-        influence_dict[physicist_name] = title_list
-
+        for result in tqdm(results):
+            name, title_list = result.get()
+            influence_dict[name] = title_list
 
     # Save the dictionary as a JSON string to the text file
     save_dict_txt(influence_dict, "social_network.txt")
 
     with open(output_txt, 'w', encoding='utf-8') as file:
         json.dump(influence_dict, file, ensure_ascii=False)
+
 
 if __name__ == '__main__':
     the_social_network("real_titles_ids.txt", "social_network.txt")
