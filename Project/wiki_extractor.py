@@ -100,9 +100,11 @@ def the_social_network(input_txt, output_txt):
     for physicist_name in tqdm(id_to_name_dict.values()):
         physicist_id = name_to_id_dict[physicist_name]
         title_list = []
+
         # if len(influence_dict)>50:
         #     break
         # #simpler code:
+
         # links_on_page = wikipedia.page(physicist_name).links
         # for link in links_on_page:
         #     try:
@@ -148,17 +150,11 @@ def the_social_network(input_txt, output_txt):
                 try:
                     title = link["title"]
                     page_id = name_to_id_dict[title]
-                    title_list.append((page_id, title))
+                    if page_id in list_valid_ids:
+                        title_list.append(title)
                 except KeyError:
                     pass
-                # title = link["title"]
-                # page_id = find_wiki_page_id(title)
-                # if page_id in list_valid_ids:
-                #     print("link found:   ", page_id, title)
-                #     title_list.append((page_id, title))
 
-                # print(link["title"])
-                # page_titles.append(link["title"])
         # while False:
         while "continue" in data:
             plcontinue = data["continue"]["plcontinue"]
@@ -175,19 +171,13 @@ def the_social_network(input_txt, output_txt):
                     try:
                         title = link["title"]
                         page_id = name_to_id_dict[title]
-                        title_list.append((page_id, title))
+                        if page_id in list_valid_ids:
+                            title_list.append(title)
                     except KeyError:
                         pass
-                    # title = link["title"]
-                    # page_id = find_wiki_page_id(title)
-                    # if page_id in list_valid_ids:
-                    #     print("link found:   ", page_id, title)
-                    #     title_list.append((page_id, title))
 
-                    # print(link["title"])
-                    # page_titles.append(link["title"])
+        influence_dict[physicist_name] = title_list
 
-        influence_dict[physicist_id] = title_list
 
     # Save the dictionary as a JSON string to the text file
     save_dict_txt(influence_dict, "social_network.txt")
