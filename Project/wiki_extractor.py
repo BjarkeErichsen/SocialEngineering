@@ -184,8 +184,8 @@ def the_social_network(input_txt, output_txt):
     with open(output_txt, 'w', encoding='utf-8') as file:
         json.dump(influence_dict, file, ensure_ascii=False)
 
-
-the_social_network("real_titles_ids.txt", "social_network.txt")
-social_network = load_dict_json("social_network.txt")
-print(social_network)
+if __name__ == '__main__':
+    the_social_network("real_titles_ids.txt", "social_network.txt")
+    social_network = load_dict_json("social_network.txt")
+    print(social_network)
 
