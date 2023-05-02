@@ -65,7 +65,9 @@ def extract_name(string):
         if end == -1:
             end = string.find('- ')
 
-    return str(string[start:end-1])
+    return str(string[start+1:end])
+
+
 
 def remove_title(string):
     if "," in string:
