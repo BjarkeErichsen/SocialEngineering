@@ -7,6 +7,7 @@ from bs4 import BeautifulSoup
 import pickle
 from urllib.parse import urlparse
 import multiprocessing as mp
+import re
 
 from sklearn.metrics.pairwise import cosine_similarity
 from sentence_transformers import SentenceTransformer
@@ -129,6 +130,35 @@ def count_occurrences(lst):
             counts[elem] = 1
     return [(elem, counts[elem]) for elem in counts]
 
+
+def get_birth_year(sentence):
+    birth_year = None
+
+    # match for format like "YYYY–YYYY"
+    match = re.search(r"\((\d{4})[\u2013-](\d{4})\)", sentence)
+    if match:
+        birth_year = int(match.group(1))
+
+    # match for format like "born YYYY"
+    if not birth_year:
+        match = re.search(r"born (\d{4})", sentence)
+        if match:
+            birth_year = int(match.group(1))
+
+    # match for format like "ca. YYYY-YYYY BC"
+    if not birth_year:
+        match = re.search(r"ca\. (\d{4})[\u2013-](\d{4}) BC", sentence)
+        if match:
+            birth_year = -int(match.group(1))
+
+    # match for format like "YYYY–YYYY Nobel laureate"
+    if not birth_year:
+        match = re.search(r"(\d{4})[\u2013-](\d{4}) Nobel", sentence)
+        if match:
+            birth_year = int(match.group(1))
+
+    return birth_year
+
 def extract_country(string):
 
     end = string.find('(')
@@ -190,6 +220,7 @@ def extract_names_from_list():
 
     if response.status_code == 200:
         data = response.json()
+
         if "links" in data["parse"]:
             for link in tqdm(data["parse"]["links"]):
                 link_title = link["*"]
@@ -209,20 +240,20 @@ def extract_names_from_list():
                     most_similar_line_in_wiki_id = find_most_similar(title,embedding_list_wiki)
                     most_similar_line_in_wiki = text_list[most_similar_line_in_wiki_id]
                     country_estimate = extract_country(most_similar_line_in_wiki)[0]
-
+                    birth_year = get_birth_year(most_similar_line_in_wiki)
                     if country_estimate in countries:
-                        title_list.append((pageid, title, country_estimate))
+                        title_list.append((pageid, title, country_estimate, birth_year))
 
                     else:
                         most_similar_country_id = find_most_similar(country_estimate, embedding_list_countries)
                         most_similar_country = countries[most_similar_country_id]
-                        title_list.append((pageid, title, most_similar_country))
+                        title_list.append((pageid, title, most_similar_country, birth_year))
 
 
-    with open('real_titles_ids.txt', 'w', encoding='utf-8') as f:
-        for pageid, title, country in title_list:
+    with open('titles_ids.txt', 'w', encoding='utf-8') as f:
+        for pageid, title, country, birth_year in title_list:
             if pageid != -1:
-                f.write(f"{pageid},{title},{country}\n")
+                f.write(f"{pageid},{title},{country}, {birth_year}\n")
 
 def get_physicist_social_network(name, base_url, id_to_name_dict, list_valid_ids):
     title_list = []
@@ -297,7 +328,6 @@ if __name__ == '__main__':
     # print(social_network)
 
     model = SentenceTransformer('sentence-transformers/paraphrase-distilroberta-base-v1')
-    country1 = "Syracuse, Greece"
 
     extract_names_from_list()
     max_score = 0
