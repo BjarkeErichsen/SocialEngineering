@@ -130,7 +130,6 @@ def count_occurrences(lst):
             counts[elem] = 1
     return [(elem, counts[elem]) for elem in counts]
 
-
 def get_birth_year(sentence):
     birth_year = None
 

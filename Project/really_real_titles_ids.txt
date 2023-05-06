@@ -475,7 +475,6 @@
 352564,John Cockcroft,United Kingdom (U.K.), 1897
 44112,John Dalton,United Kingdom (U.K.), 1766
 71464294,John E. Allen,United Kingdom (U.K.), 1928
-3063906,John Ellis (physicist, born 1946),United Kingdom (U.K.), 1946
 2504665,John Gribbin,United Kingdom (U.K.), 1946
 4244029,John H. Hubbell,United States (U.S.A), 1925
 33778096,John Hartnett (physicist),Australia, 1952
@@ -506,7 +505,6 @@
 25767401,Joseph Fourier,France, 1768
 15888351,Joseph H. Eberly,United States (U.S.A), 1935
 187477,Joseph Henry,United States (U.S.A), 1797
-50484112,Joseph Hooton Taylor, Jr.,United States (U.S.A), 1941
 665108,Joseph Larmor,United Kingdom (U.K.), 1857
 52051,Joseph Louis Gay-Lussac,France, 1778
 39367057,Joseph Louis Lagrange,France, 1736
@@ -631,7 +629,6 @@
 321428,Martin Gutzwiller,Switzerland, 1925
 1659778,Martin Knudsen,Denmark, 1871
 1641486,Martin Lewis Perl,United States (U.S.A), 1927
-48323293,Martin Rees, Baron Rees of Ludlow,United Kingdom (U.K.), 1942
 396640,Martin Ryle,United Kingdom (U.K.), 1918
 9269026,Martin Schadt,Switzerland, 1938
 5814331,Martin Tajmar,Austria, 1974
@@ -702,7 +699,6 @@
 3140570,Nikolay Umov,Russia (USSR), 1846
 648024,Nima Arkani-Hamed,United States (U.S.A), 1972
 56814316,Nina Marković,Croatia, 1970
-50484130,Norman Foster Ramsey, Jr.,United States (U.S.A), 1915
 10602004,Oleg Losev,Taiwan, 1903
 5115787,Oleg Sushkov,Russia (USSR), 1950
 22831,Oliver Heaviside,United Kingdom (U.K.), 1850
@@ -773,7 +769,6 @@
 37531982,Ratko Janev,Italy, 1939
 32426720,Ravi Gomatam,India, 1950
 5479491,Ray Mackintosh,United Kingdom (U.K.), 1930
-50660205,Raymond Davis, Jr.,United States (U.S.A), 1914
 31726273,Raymond Seeger,United States (U.S.A), 1906
 4553622,Raymond T. Birge,United States (U.S.A), 1887
 8929485,Raúl Rabadán,United States (U.S.A), 1974
@@ -928,7 +923,6 @@
 2286435,Walter Heitler,Germany, 1904
 33133,Walter Houser Brattain,United States (U.S.A), 1902
 1611852,Walter Lewin,Netherlands, 1936
-9187093,Walter Marshall, Baron Marshall of Goring,United Kingdom (U.K.), 1932
 358425,Walther Bothe,Germany, 1891
 8265781,Walther Kossel,Germany, 1888
 985295,Walther Ritz,Switzerland, 1878
@@ -954,7 +948,6 @@
 9482763,William Allis,United States (U.S.A), 1901
 630823,William Daniel Phillips,United States (U.S.A), 1948
 704307,William Eccles (physicist),United Kingdom (U.K.), 1875
-55653321,William Fuller Brown, Jr.,United States (U.S.A), 1904
 62315183,William Gilbert (astronomer),Australia, 1544
 396459,William Henry Bragg,United Kingdom (U.K.), 1862
 56424134,William Lawrence Bragg,United Kingdom (U.K.), 1862
@@ -963,7 +956,6 @@
 4362516,William R. Kanne,United States (U.S.A), 1913
 39817,William Rowan Hamilton,Ireland, 1805
 33132,William Shockley,United States (U.S.A), 1910
-33302,William Thomson, 1st Baron Kelvin,India, 1824
 9251267,William V. Houston,United States (U.S.A), 1900
 13515603,Willibald Peter Prasthofer,Austria, 1917
 456746,Willis Lamb,United States (U.S.A), 1913
@@ -1053,3 +1045,12 @@
 149626,Wilhelm Wien,Germany, 1864
 1102395,Wojciech H. Zurek,Poland, 1951
 59317748,Yakov Borisovich Zel'dovich,Russia (USSR), 1914
+3063906,John Ellis,United Kingdom (U.K.), 1946
+50484112,Joseph Hooton Taylor Jr.,United States (U.S.A), 1941
+48323293,Martin Rees of Ludlow,United Kingdom (U.K.), 1942
+50484130,Norman Foster Ramsey Jr.,United States (U.S.A), 1915
+50660205,Raymond Davis Jr.,United States (U.S.A), 1914
+50484130,Norman Foster Ramsey Jr.,United States (U.S.A), 1915
+55653321,William Fuller Brown Jr.,United States (U.S.A), 1904
+33302,William Thomson (1st Baron Kelvin),Ireland, 1824
+9187093,Walter Marshall of Goring,United Kingdom (U.K.), 1932
