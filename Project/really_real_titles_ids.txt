@@ -1,0 +1,1055 @@
+62682,A. P. J. Abdul Kalam,India, 1931
+2201,Aage Bohr,Denmark, 1922
+11543116,Aaldert Wapstra,Netherlands, 1923
+452160,Abdul Qadeer Khan,Pakistan, 1936
+304427,Abdus Salam,Pakistan, 1926
+13061257,Abraham Bennet,Australia, 1749
+2402789,Abraham H. Taub,United States (U.S.A), 1911
+316643,Abraham Pais,Netherlands, 1918
+18594585,Abram Alikhanov,Russia (USSR), 1904
+475185,Abram Ioffe,Russia (USSR), 1880
+1766764,Abu Sahl al-Quhi,Iran, 940
+18541160,Abū Rayhān al-Bīrūnī,Iran, 973
+5950265,Adam Riess,United States (U.S.A), 1969
+8350301,Adolf Kratzer,Germany, 1893
+25912842,Adolfas Jucys,Slovenia, 1904
+3213571,Adriaan Fokker,Netherlands, 1887
+26895467,Adrian Melott,United States (U.S.A), 1947
+15543736,Aiyalam Parameswaran Balachandran,India, 1938
+35695399,Akira Tonomura,Japan, 1942
+271975,Al-Biruni,Iran, 973
+1307592,Alain Aspect,France, 1947
+14597914,Alain Haché,Canada, 1970
+27458583,Alan Andrew Watson,United Kingdom (U.K.), 1938
+454498,Alan Guth,United States (U.S.A), 1947
+55516835,Alan Schoen,United States (U.S.A), 1924
+20574024,Alan Walsh (physicist),United Kingdom (U.K.), 1916
+43058075,Albert Abraham Michelson,United States (U.S.A), 1852
+736,Albert Einstein,Germany, 1879
+1810816,Albert Fert,France, 1938
+843182,Alejandro Corichi,Mexico, 1967
+148959,Aleksandr Mikhailovich Lyapunov,Russia (USSR), 1857
+3380759,Aleksandr Stoletov,Russia (USSR), 1839
+1923,Alessandro Volta,Italy, 1745
+30213963,Alexander Animalu,Peru, 1938
+22064401,Alexander Friedman,Russia (USSR), 1888
+852,Alexander Graham Bell,United States (U.S.A), 1847
+4854533,Alexander M. Polyakov,Russia (USSR), 1945
+156089,Alexander Prokhorov,Russia (USSR), 1916
+18862008,Alexander R. Hamilton,Australia, 1967
+65841541,Alexei Alexeyevich Abrikosov,Russia (USSR), 1928
+63329399,Alexei Yuryevich Smirnov,Italy, 1951
+19329673,Alfred-Marie Liénard,France, 1869
+396589,Alfred Kastler,France, 1902
+240152,Alfred Lee Loomis,United States (U.S.A), 1887
+51518592,Alhazen,Bulgaria, 965
+773085,Ali Javan,Iran, 1928
+28394312,Alladi Ramakrishnan,India, 1923
+59669169,Allan McLeod Cormack,South Africa, 1924
+11234869,Alvin Weinberg,United States (U.S.A), 1915
+24980042,Amanda Barnard,Australia, 1971
+42009,Amedeo Avogadro,Italy, 1776
+517168,Amos Dolbear,United States (U.S.A), 1837
+4036749,Amrom Harry Katz,United States (U.S.A), 1915
+52056204,Amédée Mouchez,Spain, 1821
+6118308,Anatoly Vlasov,Russia (USSR), 1908
+23275314,Anders Jonas Ångström,Sweden, 1814
+17054160,Andre Geim,Ukraine, 1958
+704276,Andrea M. Ghez,United States (U.S.A), 1955
+23492621,Andreas Jaszlinszky,Hungary, 1715
+2786,Andrei Sakharov,Ukraine, 1929
+13298396,Andrew D. Huxley,United Kingdom (U.K.), 1966
+645099,Andrew Strominger,United States (U.S.A), 1955
+1363,André-Marie Ampère,France, 1775
+38411234,Anja Cetti Andersen,Denmark, 1965
+6941608,Ann Nelson,United States (U.S.A), 1958
+299672,Annie Jump Cannon,United States (U.S.A), 1863
+42270734,Antal Jákli,Hungary, 1958
+22765181,Anthony Ichiro Sanda,United States (U.S.A), 1944
+659002,Anthony James Leggett,United States (U.S.A), 1938
+22992311,Anthony M. Johnson,United States (U.S.A), 1954
+58688639,Antonella De Santo,United Kingdom (U.K.), 1960
+14252151,Antony Garrett Lisi,United States (U.S.A), 1968
+300769,Antony Hewish,United Kingdom (U.K.), 1924
+2224896,Archibald Howie,United Kingdom (U.K.), 1934
+5778070,Archibald Low,United Kingdom (U.K.), 1888
+1844,Archimedes,Greece, -287
+41232609,Ari Brynjolfsson,Finland, 1927
+74857,Aristarchus of Samos,Slovenia, -310
+308,Aristotle,Greece, -384
+318516,Arno Allan Penzias,United States (U.S.A), 1933
+213639,Arnold Sommerfeld,Germany, 1868
+1747908,Arpad Elo,Hungary, 1903
+30600032,Arsenij Sokolov,Russia (USSR), 1910
+17825823,Artem Alikhanian,Argentina, 1908
+67675585,Arthur Alan Middleton,United States (U.S.A), 1960
+14031024,Arthur B. McDonald,Canada, 1943
+432000,Arthur Compton,United States (U.S.A), 1887
+53731228,Arthur Foley,Australia, 1867
+28330320,Arthur Iberall,United States (U.S.A), 1918
+2063689,Arthur Jeffrey Dempster,Canada, 1886
+5620569,Arthur Korn,Germany, 1870
+396739,Arthur Leonard Schawlow,United States (U.S.A), 1921
+7647496,Arthur Maitland,United Kingdom (U.K.), 1925
+19006986,Arthur Milne,United Kingdom (U.K.), 1896
+28764971,Arthur Stanley Eddington,United Kingdom (U.K.), 1882
+297204,Aryabhata,India, 476
+306132,Aryabhatta,India, 476
+12852740,Ashok Das,United States (U.S.A), 1953
+644615,Ashoke Sen,India, 1956
+49533948,Ashutosh Kotwal,United States (U.S.A), 1965
+4410235,Asım Orhan Barut,Turkey, 1926
+9001973,Ataç İmamoğlu,Turkey, 1962
+72252700,Audrey Stuckes,United Kingdom (U.K.), 1923
+932247,August Krönig,Germany, 1822
+1141,Augustin-Jean Fresnel,France, 1788
+1130,Avicenna,Iran, 980
+37918935,Ayyub Guliyev,Serbia, 1954
+891331,B. Roy Frieden,United States (U.S.A), 1936
+6682374,Balthasar van der Pol,Netherlands, 1889
+521509,Bar-Ilan University,Israel, 1943
+6184989,Behram Kursunoglu,Turkey, 1922
+396657,Ben Roy Mottelson,Denmark, 1926
+3986,Benjamin Franklin,United States (U.S.A), 1706
+6838178,Benjamin Lee (physicist),South Korea, 1935
+203175,Benoît Paul Émile Clapeyron,France, 1799
+36362117,Bent Sørensen (physicist),Denmark, 1941
+4916150,Bernhard Philberth,Germany, 1927
+6597899,Bertha Swirles,United Kingdom (U.K.), 1903
+341703,Bertram Brockhouse,Canada, 1918
+64659061,Beryl May Dent,United Kingdom (U.K.), 1900
+42870335,Bice Sechi-Zorn,United States (U.S.A), 1928
+42212513,Bimla Buti,India, 1933
+4068,Blaise Pascal,France, 1623
+15791618,Boris Chirikov,Russia (USSR), 1928
+27478284,Boris Jacobi,Germany, 1801
+635151,Boris Podolsky,Kazakhstan, 1896
+63987656,Boris Shraiman,United States (U.S.A), 1956
+9454076,Boyd Bartlett,United States (U.S.A), 1897
+1614287,Brandon Carter,Australia, 1942
+31365232,Brendan Scaife,Ireland, 1928
+6329619,Brian Cox (physicist),United Kingdom (U.K.), 1968
+40846673,Brian David Josephson,United Kingdom (U.K.), 1940
+354070,Brian Greene,United States (U.S.A), 1963
+42069,Brian May,United Kingdom (U.K.), 1947
+6231333,Brian Schmidt,United States (U.S.A), 1967
+1834663,Bruno Pontecorvo,Italy, 1913
+520727,Bruno Rossi,United States (U.S.A), 1905
+3001488,Bruno Touschek,Italy, 1921
+14009810,Burchard de Volder,Netherlands, 1643
+396684,Burton Richter,United States (U.S.A), 1931
+14249819,C.H.D. Buys Ballot,Netherlands, 1817
+460540,Carl-Gustav Arvid Rossby,Sweden, 1898
+5796277,Carl August Steinheil,Germany, 1801
+396485,Carl David Anderson,United States (U.S.A), 1905
+9294158,Carl Eckart,United States (U.S.A), 1902
+6125,Carl Friedrich Gauss,Germany, 1777
+1306229,Carl Friedrich von Weizsäcker,Germany, 1912
+71374691,Carl Hermann,Germany, 1898
+8542066,Carl M. Bender,United States (U.S.A), 1943
+9962772,Carl Ramsauer,Germany, 1879
+11857765,Carl Richard Hagen,United States (U.S.A), 1937
+6824,Carl Sagan,United States (U.S.A), 1934
+15654806,Carlo Marangoni,Italy, 1840
+474202,Carlo Rovelli,Italy, 1956
+44932,Carlo Rubbia,Italy, 1934
+25791629,Carol Hirschmugl,United Kingdom (U.K.), 1960
+50794103,Carolina Henriette Mac Gillavry,Netherlands, 1904
+33105085,Cecil Frank Powell,United Kingdom (U.K.), 1903
+476366,Cecilia Payne-Gaposchkin,United States (U.S.A), 1900
+2130231,Cesar Lattes,Brazil, 1924
+9417967,Chandrasekhara Venkata Raman,India, 1888
+52630802,Chang Kee Jung,South Korea, 1970
+211439,Charles-Augustin de Coulomb,France, 1736
+27688296,Charles Critchfield,United States (U.S.A), 1910
+14422924,Charles Edouard Guillaume,Switzerland, 1861
+502927,Charles Galton Darwin,United Kingdom (U.K.), 1887
+396469,Charles Glover Barkla,United Kingdom (U.K.), 1877
+15850416,Charles H. Henry,United States (U.S.A), 1937
+51012,Charles K. Kao,United States (U.S.A), 1933
+59799196,Charles Lambert Manneback,Belgium, 1894
+16955014,Charles Thorn,United States (U.S.A), 1946
+4875998,Charles Townes,United States (U.S.A), 1915
+13076299,Charlotte Riefenstahl,Germany, 1899
+48911249,Chennupati Jagadish,Australia, 1957
+8140121,Chris Lintott,United Kingdom (U.K.), 1980
+42127,Christiaan Huygens,Netherlands, 1629
+7080,Christian Doppler,Austria, 1803
+9560841,Christian Gerthsen,Denmark, 1894
+630821,Claude Cohen-Tannoudji,France, 1933
+59518037,Claudia Draxl,Germany, 1959
+3848359,Clemens C. J. Roothaan,Netherlands, 1918
+521992,Clifford Shull,United States (U.S.A), 1915
+930254,Clinton Davisson,United States (U.S.A), 1881
+22011918,Colin Webb,United Kingdom (U.K.), 1937
+47504627,Cornelis Bakker,Netherlands, 1904
+22306020,Craige Schensted,United States (U.S.A), 1927
+644848,Cumrun Vafa,Iran, 1960
+3559437,Curtis Callan,United States (U.S.A), 1942
+58602846,Céline Bœhm,France, 1974
+46784,Daniel Bernoulli,Switzerland, 1700
+896740,Daniel C. Tsui,United States (U.S.A), 1939
+3507129,Daniel Friedan,United States (U.S.A), 1948
+8663,Daniel Gabriel Fahrenheit,Germany, 1686
+43517406,Daniel Greenberger,United States (U.S.A), 1932
+3034169,David Awschalom,United States (U.S.A), 1956
+186234,David Bohm,United States (U.S.A), 1917
+8487,David Brewster,United Kingdom (U.K.), 1781
+16738797,David Carroll (physicist),United States (U.S.A), 1963
+8729,David Deutsch,Israel, 1953
+3736770,David Enskog,Sweden, 1884
+867587,David Finkelstein,United States (U.S.A), 1929
+646158,David Gross,United States (U.S.A), 1941
+498470,David J. Griffiths,United States (U.S.A), 1942
+2006475,David Lee (physicist),United States (U.S.A), 1931
+2300168,David Lindley (physicist),United States (U.S.A), 1956
+9406027,David M. Dennison,United States (U.S.A), 1900
+20838066,David Merritt,United States (U.S.A), 1955
+19827292,David Olive,United Kingdom (U.K.), 1937
+3210880,David Ruelle,Belgium, 1935
+6156714,David Z Albert,United States (U.S.A), 1954
+52709470,Daya Shankar Kulshreshtha,India, 1951
+447631,Deborah S. Jin,United States (U.S.A), 1968
+8211,Democritus,Greece, -460
+2357005,Denis Evans,Australia, 1951
+2405367,Denis Weaire,Ireland, 1942
+172883,Dennis Gabor,Hungary, 1900
+43114372,Dennis William Sciama,United Kingdom (U.K.), 1926
+7330654,Derek Abbott,Australia, 1960
+20695458,Dmitry Shirkov,Russia (USSR), 1928
+375390,Donald A. Glaser,United States (U.S.A), 1926
+58632444,Donna Strickland,Canada, 1959
+21671065,Dorothy Crowfoot Hodgkin,Australia, 1910
+34548654,Douglas D. Osheroff,United States (U.S.A), 1945
+1252692,Douglas Hartree,United Kingdom (U.K.), 1897
+3946699,Edward Bouchet,United States (U.S.A), 1852
+1907745,Edward Condon,United States (U.S.A), 1902
+396531,Edward Mills Purcell,United States (U.S.A), 1912
+34322758,Edward P. Ney,United States (U.S.A), 1920
+9563438,Edward Ramberg,United States (U.S.A), 1907
+37782,Edward Teller,Austria, 1908
+396514,Edward Victor Appleton,United Kingdom (U.K.), 1892
+9332649,Edwin C. Kemble,United States (U.S.A), 1889
+70740694,Edwin Ernest Salpeter,Austria, 1924
+926871,Edwin Hall,United States (U.S.A), 1855
+593197,Edwin Powell Hubble,United States (U.S.A), 1889
+166971,Edwin Thompson Jaynes,United States (U.S.A), 1922
+1385708,Egon Orowan,Austria, 1901
+22363120,Elephter Andronikashvili,China, 1910
+27932305,Elmer Imes,United States (U.S.A), 1883
+376488,Emilio G. Segre,United States (U.S.A), 1905
+149896,Emmy Noether,Germany, 1882
+10264,Enrico Fermi,Italy, 1901
+25820999,Erhard Kietz,Germany, 1909
+406599,Eric Allin Cornell,United States (U.S.A), 1961
+18116967,Eric Poisson,Canada, 1965
+661244,Erik Verlinde,Netherlands, 1962
+16046247,Ernest Courant,United States (U.S.A), 1920
+524280,Ernest Esclangon,France, 1876
+39040,Ernest Lawrence,United States (U.S.A), 1901
+9603,Ernest Rutherford,New Zealand, 1871
+362499,Ernest Walton,Ireland, 1903
+50977321,Ernest William Titterton,United Kingdom (U.K.), 1916
+12855281,Ernst Brüche,Germany, 1900
+233211,Ernst Chladni,Germany, 1756
+775658,Ernst Ising,Germany, 1900
+21261788,Ernst Karl Abbe,Germany, 1840
+55285,Ernst Mach,Austria, 1838
+147338,Ernst Ruska,Germany, 1906
+1354658,Ernst Stueckelberg,Switzerland, 1905
+17254254,Ernst equation,France, 1876
+8334360,Erwin Fues,Germany, 1893
+9942,Erwin Schrödinger,Austria, 1887
+156018,Ettore Majorana,Italy, 1906
+9320181,Eugene Feenberg,United States (U.S.A), 1906
+16307453,Eugene T. Booth,United States (U.S.A), 1912
+667714,Eva Silverstein,United States (U.S.A), 1970
+210413,Evangelista Torricelli,Italy, 1608
+42881181,Evans Hayward,United States (U.S.A), 1922
+713353,Evgeny Lifshitz,Ukraine, 1915
+13608626,Evgeny Velikhov,Russia (USSR), 1935
+38666928,Ezra Getzler,Australia, 1962
+19658140,F. J. Duarte,United States (U.S.A), 1954
+64593041,Felicie Albert,United States (U.S.A), 1980
+10896,Felix Bloch,Switzerland, 1905
+20903874,Felix Ehrenhaft,Austria, 1879
+1951615,Feza Gürsey,Turkey, 1921
+21664797,Floyd K. Richtmyer,India, 1910
+16172297,Francis G. Slack,United States (U.S.A), 1897
+415958,Frank J. Tipler,United States (U.S.A), 1947
+604168,Franz Aepinus,Israel, 1724
+64086299,Franz Mandl (physicist),United Kingdom (U.K.), 1923
+8867477,Franz S. Exner,Austria, 1849
+44669,François Arago,France, 1786
+8370210,François Englert,Belgium, 1932
+11001,Fred Hoyle,United Kingdom (U.K.), 1915
+9089074,Frederick Grover,United States (U.S.A), 1876
+155800,Frederick Reines,United States (U.S.A), 1918
+37034,Frederick Seitz,United States (U.S.A), 1911
+11397,Freeman Dyson,United States (U.S.A), 1923
+8566681,Friedrich Burmeister,Germany, 1890
+153260,Friedrich Ernst Dorn,Germany, 1848
+1647582,Friedrich Hasenöhrl,Austria, 1874
+322104,Friedrich Hund,Germany, 1896
+78971,Fritjof Capra,Austria, 1939
+230140,Fritz Houtermans,Netherlands, 1903
+8177100,Fulvio Melia,United States (U.S.A), 1956
+2748975,Félix Savart,France, 1791
+16275840,G. N. Glasoe,United States (U.S.A), 1902
+73675479,G. V. Skrotskii,Russia (USSR), 1915
+2619087,Gabriel Jonas Lippmann,France, 1845
+35402095,Gabriele Rabel,Austria, 1880
+2864678,Gabriele Veneziano,Italy, 1942
+20837934,Gaetano Vignola,Italy, 1950
+29688374,Galileo Galilei,Italy, 1564
+68543354,Gari Clifford,United Kingdom (U.K.), 1970
+45542599,Gaspard-Gustave Coriolis,France, 1792
+2627444,Geoffrey Chew,United States (U.S.A), 1924
+38178578,Geoffrey Ingram Taylor,United Kingdom (U.K.), 1886
+49080,Georg Ohm,Germany, 1789
+731119,George B. Pegram,United States (U.S.A), 1876
+3626383,George E. Smith,United States (U.S.A), 1930
+32516574,George Eugene Uhlenbeck,Netherlands, 1900
+542877,George Francis FitzGerald,Ireland, 1851
+21574613,George Gabriel Stokes,Ireland, 1819
+74641,George Gamow,Russia (USSR), 1904
+725910,George Paget Thomson,United Kingdom (U.K.), 1892
+7267936,George Smoot,United States (U.S.A), 1945
+28707293,George Sterman,United States (U.S.A), 1946
+38561320,George Sudarshan,United States (U.S.A), 1931
+2661671,George W. Clark,United States (U.S.A), 1929
+419243,George William Hill,United States (U.S.A), 1838
+937244,Georges-Louis Le Sage,Switzerland, 1724
+342525,Georges Charpak,France, 1924
+224698,Georges Lemaître,Belgium, 1894
+5439008,Georges Sagnac,France, 1869
+2111935,Georgy Flyorov,Kazakhstan, 1913
+9708848,Gerald B. Cleaver,United States (U.S.A), 1970
+9818401,Gerald Feinberg,United States (U.S.A), 1933
+34930843,Gerald Goertzel,United States (U.S.A), 1920
+758947,Gerard K. O'Neill,United States (U.S.A), 1927
+28395624,Gerardus 't Hooft,Netherlands, 1946
+7790085,Gerd Binnig,Germany, 1947
+30875518,Gersh Budker,Ukraine, 1918
+15965610,Gilbert Ronald Bainbridge,United Kingdom (U.K.), 1925
+754197,Giovanni Battista Venturi,Italy, 1746
+697753,Giovanni Ciccotti,Italy, 1943
+45864,Giulio Racah,Israel, 1909
+1632820,Gleb Wataghin,Ukraine, 1896
+12281,Gottfried Wilhelm Leibniz,Germany, 1646
+31202870,Gregory Jaczko,United States (U.S.A), 1970
+682743,Grigory Landsberg,Serbia, 1890
+12104,Guglielmo Marconi,Italy, 1874
+2388915,Gunnar Nordström,Finland, 1881
+7332276,Gurgen Askaryan,Ukraine, 1928
+92418,Gustaf Dalén,Sweden, 1869
+12332,Gustav Kirchhoff,Germany, 1824
+345776,Gustav Ludwig Hertz,Germany, 1887
+4306477,Gustave-Adolphe Hirn,France, 1815
+31886673,H. Pierre Noyes,United States (U.S.A), 1923
+1214030,Hagen Kleinert,Germany, 1941
+263928,Hannes Olof Gösta Alfvén,Sweden, 1908
+185853,Hans Bethe,Germany, 1906
+39632358,Hans Buchdahl,Germany, 1918
+7575091,Hans Christian Ørsted,Denmark, 1777
+78738,Hans Geiger,Germany, 1882
+2009986,Hans Georg Dehmelt,Germany, 1922
+9070229,Hans Henrik Andersen,Denmark, 1937
+3025147,Harald Fuchs,Germany, 1951
+4395936,Harrie Massey,Australia, 1908
+43737551,Hasan Abdullayev,Kazakhstan, 1918
+58761,Heike Kamerlingh Onnes,Netherlands, 1853
+3726612,Heinrich Kayser,Germany, 1853
+7790184,Heinrich Rohrer,Switzerland, 1933
+10744094,Heinrich Rudolf Hertz,Germany, 1857
+8315798,Heinrich Welker,Germany, 1912
+13816180,Heinz Barwich,Germany, 1911
+1619542,Heinz Pagels,United States (U.S.A), 1939
+14105897,Heinz Pose,Germany, 1905
+6528064,Helen Quinn,United States (U.S.A), 1943
+8402407,Helmut Hönl,Germany, 1903
+1651533,Hendrik Casimir,Netherlands, 1909
+5380360,Hendrik Kramers,Netherlands, 1894
+88183,Hendrik Lorentz,Netherlands, 1853
+28870832,Henk Dorgelo,Netherlands, 1894
+53711,Henri Becquerel,France, 1852
+48740,Henri Poincaré,France, 1854
+102338,Henry Cavendish,United Kingdom (U.K.), 1731
+5591744,Henry Margenau,Germany, 1901
+14454,Henry Moseley,United Kingdom (U.K.), 1887
+1157602,Henry Stapp,United States (U.S.A), 1928
+2205848,Henry Way Kendall,United States (U.S.A), 1926
+171867,Heraclides Ponticus,Greece, -387
+314964,Herbert Kroemer,Germany, 1928
+16261098,Herbert L. Anderson,United States (U.S.A), 1914
+6924212,Herman Feshbach,United States (U.S.A), 1917
+661246,Herman Verlinde,Netherlands, 1962
+9847916,Hermann Brück,Germany, 1905
+53311,Hermann von Helmholtz,Germany, 1821
+45299410,Hideo Ohno,Japan, 1954
+213877,Hippolyte Fizeau,France, 1819
+41792306,Hiranmay Sen Gupta,Bangladesh, 1934
+2520305,Holger Bech Nielsen,Denmark, 1941
+1245965,Homi J. Bhabha,India, 1909
+1621554,Horst Ludwig Störmer,Germany, 1949
+18831698,Howard Brandt,United States (U.S.A), 1939
+3105015,Howard Georgi,United States (U.S.A), 1947
+509551,Hubert Reeves,Canada, 1932
+30871443,Hugh David Politzer,United States (U.S.A), 1949
+1645,Ibn al-Haytham,Israel, 965
+18339871,Igor Ternov,Russia (USSR), 1921
+553951,Igor Vasilyevich Kurchatov,Ukraine, 1903
+148958,Igor Yevgenyevich Tamm,Russia (USSR), 1895
+396548,Ilya Frank,Ukraine, 1908
+238560,Ilya Prigogine,Belgium, 1917
+15362,Irving Langmuir,United States (U.S.A), 1881
+62070,Irène Joliot-Curie,France, 1897
+1018089,Isaac Beeckman,Netherlands, 1588
+66334373,Isaak Markovich Khalatnikov,Ukraine, 1919
+196999,Isidor Isaac Rabi,Austria, 1898
+4420649,Isidor Sauers,Austria, 1948
+3206250,Ivan Pulyuy,Ukraine, 1845
+396621,Ivar Giaever,Norway, 1929
+396566,J. Hans D. Jensen,Germany, 1907
+70085,J. J. Thomson,United Kingdom (U.K.), 1856
+64069,Jack Kilby,United States (U.S.A), 1923
+789046,Jack Steinberger,Germany, 1921
+2600542,Jagadeesh Moodera,United States (U.S.A), 1950
+288059,Jagadish Chandra Bose,India, 1858
+29190026,Jainendra Jain,India, 1960
+7713219,Jamal Nazrul Islam,Bangladesh, 1939
+60844527,James Alfred Ewing,United Kingdom (U.K.), 1855
+13821458,James Binney,Australia, 1950
+30857724,James Bjorken,United States (U.S.A), 1934
+66880709,James C. Davenport,United States (U.S.A), 1938
+174316,James Chadwick,United Kingdom (U.K.), 1891
+28989696,James Clerk Maxwell,United Kingdom (U.K.), 1831
+396732,James Cronin,United States (U.S.A), 1931
+255670,James David Forbes,United Kingdom (U.K.), 1809
+55279,James Dewar,United Kingdom (U.K.), 1842
+12932718,James E. Faller,United States (U.S.A), 1934
+381797,James Franck,Germany, 1882
+6901985,James Glimm,United States (U.S.A), 1934
+53657481,James Hopwood Jeans,United Kingdom (U.K.), 1877
+81859,James Prescott Joule,United Kingdom (U.K.), 1818
+396661,James Rainwater,United States (U.S.A), 1917
+11350105,James W. LaBelle,United States (U.S.A), 1960
+30167171,James Wait,Canada, 1924
+16142,James Watt,United Kingdom (U.K.), 1736
+67792266,Janette Dunlop,Ireland, 1891
+2251669,Jayant Narlikar,India, 1938
+75109,Jean-Baptiste Biot,France, 1774
+439481,Jean-Pierre Vigier,France, 1920
+573998,Jean Baptiste Perrin,France, 1870
+1328727,Jean Charles Athanase Peltier,France, 1785
+27867234,Jean Dalibard,France, 1958
+35990187,Jean Henri van Swinden,Netherlands, 1746
+51182,Jean le Rond d'Alembert,France, 1717
+52579004,Jeff Forshaw,United Kingdom (U.K.), 1968
+3450014,Jeffrey Goldstone,United States (U.S.A), 1933
+1517941,Jens Martin Knudsen,Denmark, 1930
+728900,Jerome Isaac Friedman,United States (U.S.A), 1930
+8634205,Jim Al-Khalili,United Kingdom (U.K.), 1962
+48609625,Joan Maie Freeman,Australia, 1918
+543432,Jocelyn Bell Burnell,United Kingdom (U.K.), 1943
+1381029,Jogesh Pati,United States (U.S.A), 1937
+20485652,Johann Baptiste Horvath,Czech Republic, 1732
+2514301,Johann Georg Tralles,Germany, 1763
+2212898,Johann Gottlieb Nörremberg,Germany, 1787
+768749,Johann Jakob Balmer,Switzerland, 1825
+663705,Johann Josef Loschmidt,Austria, 1821
+6026336,Johannes Bosscha,Netherlands, 1831
+230711,Johannes Diderik van der Waals,Netherlands, 1837
+9878039,Johannes Fischer,Germany, 1887
+37653118,Johannes Georg Bednorz,Germany, 1950
+15736,Johannes Kepler,Germany, 1571
+21851348,Johannes Martinus Burgers,Netherlands, 1895
+199123,Johannes Rydberg,Sweden, 1854
+432264,Johannes Stark,Germany, 1874
+25669211,John Alexander Simpson,United States (U.S.A), 1916
+15737,John Bardeen,United States (U.S.A), 1941
+7267746,John C. Mather,United Kingdom (U.K.), 1790
+405835,John C. Slater,United States (U.S.A), 1900
+27567717,John Clauser,United States (U.S.A), 1942
+2737177,John Clive Ward,Australia, 1924
+352564,John Cockcroft,United Kingdom (U.K.), 1897
+44112,John Dalton,United Kingdom (U.K.), 1766
+71464294,John E. Allen,United Kingdom (U.K.), 1928
+3063906,John Ellis (physicist, born 1946),United Kingdom (U.K.), 1946
+2504665,John Gribbin,United Kingdom (U.K.), 1946
+4244029,John H. Hubbell,United States (U.S.A), 1925
+33778096,John Hartnett (physicist),Australia, 1952
+15251845,John Hasbrouck van Vleck,United States (U.S.A), 1899
+769122,John Henry Poynting,United Kingdom (U.K.), 1852
+646162,John Henry Schwarz,United States (U.S.A), 1941
+932238,John Herapath,United Kingdom (U.K.), 1790
+250626,John Hopkinson,United Kingdom (U.K.), 1849
+12875925,John Hubbard (physicist),United Kingdom (U.K.), 1931
+11647284,John Iliopoulos,Greece, 1940
+7540949,John J. Montgomery,United States (U.S.A), 1858
+11501917,John J. Turin,United States (U.S.A), 1913
+914498,John James Waterston,United Kingdom (U.K.), 1811
+466394,John Kerr (physicist),Ireland, 1824
+2831145,John L. Hall,United States (U.S.A), 1934
+227618,John Lennard-Jones,United Kingdom (U.K.), 1894
+1138167,John Leslie (physicist),United Kingdom (U.K.), 1766
+36875004,John Linsley,United States (U.S.A), 1925
+20674546,John Nye (scientist),United Kingdom (U.K.), 1923
+2864831,John Pasta,United States (U.S.A), 1918
+50335,John Polkinghorne,United Kingdom (U.K.), 1930
+396615,John Robert Schrieffer,United States (U.S.A), 1931
+3838963,John Sealy Townsend,United Kingdom (U.K.), 1868
+169917,John Stewart Bell,United Kingdom (U.K.), 1928
+256310,John Tyndall,United Kingdom (U.K.), 1820
+15942,John von Neumann,Austria, 1903
+14965594,Jonathan Dowling,United States (U.S.A), 1955
+25767401,Joseph Fourier,France, 1768
+15888351,Joseph H. Eberly,United States (U.S.A), 1935
+187477,Joseph Henry,United States (U.S.A), 1797
+50484112,Joseph Hooton Taylor, Jr.,United States (U.S.A), 1941
+665108,Joseph Larmor,United Kingdom (U.K.), 1857
+52051,Joseph Louis Gay-Lussac,France, 1778
+39367057,Joseph Louis Lagrange,France, 1736
+12946726,Joseph Lykken,United States (U.S.A), 1957
+331154,Joseph Plateau,Belgium, 1801
+644630,Joseph Polchinski,United States (U.S.A), 1954
+6687509,Joseph Romm,United States (U.S.A), 1960
+315742,Joseph Rotblat,Poland, 1908
+48292100,Joseph Stefan,Austria, 1835
+136688,Joseph Swan,United Kingdom (U.K.), 1828
+64659,Joseph von Fraunhofer,Germany, 1787
+37332,Josiah Willard Gibbs,United States (U.S.A), 1839
+5688324,José Enrique Moyal,United Kingdom (U.K.), 1910
+3525826,Joël Scherk,France, 1946
+71115969,Juan Martín Maldacena,Argentina, 1968
+53868622,Juansher Chkareuli,China, 1940
+48756809,Jules Aarons,United States (U.S.A), 1921
+269980,Julian Schwinger,United States (U.S.A), 1918
+66914445,Julianne Pollard-Larkin,United States (U.S.A), 1960
+803518,Julius Adams Stratton,United States (U.S.A), 1901
+34196691,Juris Upatnieks,United States (U.S.A), 1936
+396741,Kai Siegbahn,Sweden, 1918
+23164561,Kan-Chang Wang,China, 1907
+14195887,Karl-Heinrich Riewe,Germany, 1910
+37759753,Karl Alexander Müller,Switzerland, 1927
+8455287,Karl Bechert,Germany, 1901
+2795720,Karl Compton,United States (U.S.A), 1887
+17297,Karl Ferdinand Braun,Germany, 1850
+9541803,Karl Glitscher,Germany, 1886
+5383886,Karl Herzfeld,Austria, 1892
+526150,Karl L. Littrow,Austria, 1811
+157550,Karl Schwarzschild,Germany, 1876
+63510811,Katherine Weimer,United States (U.S.A), 1919
+38358381,Kathryn Moler,United States (U.S.A), 1966
+352146,Kazimierz Fajans,Poland, 1887
+12276911,Kees A. Schouhamer Immink,Netherlands, 1946
+19312144,Kendal Nezan,France, 1949
+6908585,Kenneth Lane (physicist),United States (U.S.A), 1950
+1556641,Kip Stephen Thorne,United States (U.S.A), 1940
+670471,Klaus von Klitzing,Germany, 1943
+28848171,Konstantin Novoselov,Russia (USSR), 1974
+43977155,Konstantin Petrzhak,Russia (USSR), 1907
+37343745,Lars Bildsten,United States (U.S.A), 1964
+37175,Lars Onsager,Norway, 1903
+60284447,Laura Eisenstein,India, 1942
+2446534,Laura Maria Caterina Bassi,Italy, 1711
+2514488,Lawrence M. Krauss,United States (U.S.A), 1954
+171915,Lee Smolin,United States (U.S.A), 1955
+5195838,Lene Vestergaard Hau,Denmark, 1959
+217832,Leo Esaki,Japan, 1925
+1890575,Leo Graetz,Germany, 1856
+56359,Leo Szilard,Austria, 1898
+396611,Leon Cooper,United States (U.S.A), 1930
+17970,Leon M. Lederman,United States (U.S.A), 1922
+12174628,Leonard Salomon Ornstein,Netherlands, 1880
+64296582,Leonard Strachan,United States (U.S.A), 1950
+644448,Leonard Susskind,United States (U.S.A), 1940
+18079,Leonardo da Vinci,Italy, 1452
+17902,Leonhard Euler,Switzerland, 1707
+23883097,Leonid Isaakovich Mandelshtam,Russia (USSR), 1879
+932276,Leopoldo Nobili,Italy, 1784
+1030266,Lev Artsimovich,Ukraine, 1909
+2675813,Lev Davidovich Landau,Russia (USSR), 1908
+10900904,Lev Gor'kov,United States (U.S.A), 1929
+6038285,Lev Shubnikov,Ukraine, 1901
+11555303,Lew Kowarski,France, 1907
+1413777,Lewi Tonks,United States (U.S.A), 1897
+671936,Lisa Randall,United States (U.S.A), 1962
+18070,Lise Meitner,Austria, 1878
+426739,Lord Rayleigh,United Kingdom (U.K.), 1842
+42744956,Lorella Jones,United States (U.S.A), 1943
+664354,Loránd Eötvös,Austria, 1848
+6172129,Lothar Nordheim,Germany, 1899
+1201270,Louis-Victor de Broglie,France, 1892
+495065,Louis Essen,United Kingdom (U.K.), 1908
+254446,Louis Néel,France, 1904
+5730078,Louis Rendu,France, 1789
+507859,Louis Slotin,United States (U.S.A), 1910
+18741841,Louise Dolan,United States (U.S.A), 1950
+10914584,Luciano Maiani,Italy, 1941
+37145,Lucretius,Italy, -98
+4854639,Ludvig Faddeev,Russia (USSR), 1934
+3422173,Ludvig Lorenz,Denmark, 1829
+544255,Ludwig Boltzmann,Austria, 1844
+769148,Ludwig Prandtl,Germany, 1875
+8139156,Ludwig Waldmann,Germany, 1913
+6998622,Ludwik Silberstein,Poland, 1872
+88344,Luigi Galvani,Italy, 1737
+9422447,Luigi Puccianti,Italy, 1875
+320445,Luis Walter Alvarez,United States (U.S.A), 1911
+1612715,Léon Brillouin,France, 1889
+213874,Léon Foucault,France, 1819
+8355023,Léon Van Hove,Belgium, 1924
+60128570,M. Cristina Marchetti,United States (U.S.A), 1955
+929450,Macedonio Melloni,Italy, 1798
+58876165,Maha Ashour-Abdalla,United States (U.S.A), 1943
+48047821,Mahmoud Hessaby,Iran, 1903
+10899099,Makoto Kobayashi (physicist),Japan, 1944
+27301322,Mambillikalathil Govind Kumar Menon,India, 1928
+287077,Manfred Eigen,Germany, 1927
+619968,Manfred von Ardenne,Germany, 1907
+4877968,Mani Lal Bhaumik,United States (U.S.A), 1931
+573846,Manne Siegbahn,Sweden, 1886
+13680414,Marcel Audiffren,France, 1880
+3235670,Marcel Brillouin,France, 1854
+12948359,Marcela Carena,Argentina, 1962
+26176083,Marcia Barbosa,Brazil, 1960
+35778847,Margrete Heiberg Bose,Denmark, 1866
+1234296,Maria Goeppert-Mayer,Germany, 1906
+140526,Maria Goeppert Mayer,Germany, 1906
+3333041,Maria Spiropulu,Greece, 1970
+1027807,Marian Smoluchowski,Poland, 1872
+211458,Marie Alfred Cornu,France, 1841
+20408,Marie Curie,France, 1859
+72109421,Marissa Giustina,United States (U.S.A), 1970
+66079732,Mark Bowick,United States (U.S.A), 1957
+14844563,Mark G. Raizen,United States (U.S.A), 1955
+315710,Mark Oliphant,Australia, 1901
+4011181,Marlan Scully,United States (U.S.A), 1939
+3742070,Marshall Rosenbluth,United States (U.S.A), 1927
+5450571,Martin Bojowald,Germany, 1973
+321428,Martin Gutzwiller,Switzerland, 1925
+1659778,Martin Knudsen,Denmark, 1871
+1641486,Martin Lewis Perl,United States (U.S.A), 1927
+48323293,Martin Rees, Baron Rees of Ludlow,United Kingdom (U.K.), 1942
+396640,Martin Ryle,United Kingdom (U.K.), 1918
+9269026,Martin Schadt,Switzerland, 1938
+5814331,Martin Tajmar,Austria, 1974
+491723,Martinus J. G. Veltman,Netherlands, 1931
+676717,Marvin D. Girardeau,United States (U.S.A), 1930
+8852028,Marvin Leonard Goldberger,United States (U.S.A), 1922
+24596578,Mary K. Gaillard,United States (U.S.A), 1939
+193204,Masatoshi Koshiba,Japan, 1926
+7579091,Matthew Koss,United States (U.S.A), 1961
+2576754,Maurice Goldhaber,Austria, 1911
+524212,Maurice Loewy,Austria, 1833
+61866,Max Born,Germany, 1882
+169382,Max Delbrück,Germany, 1906
+19848,Max Planck,Germany, 1858
+13475854,Max Steenbeck,India, 1901
+175499,Max Tegmark,Sweden, 1967
+13550431,Max Volmer,Germany, 1885
+396454,Max von Laue,Germany, 1879
+31813107,Maxim Chernodub,Russia (USSR), 1973
+68711399,Meenakshi Narain,United States (U.S.A), 1964
+24736505,Megh Nad Saha,India, 1893
+34082255,Melvin Lax,United States (U.S.A), 1922
+2205765,Melvin Schwartz,United States (U.S.A), 1932
+4421767,Menas Kafatos,Greece, 1945
+16359793,Mendel Sachs,United States (U.S.A), 1927
+63198943,Merritt Moore,United States (U.S.A), 1988
+19727,Michael Faraday,United Kingdom (U.K.), 1791
+646165,Michael Green (physicist),India, 1946
+683604,Michael R. Douglas,United States (U.S.A), 1961
+348746,Michio Kaku,United States (U.S.A), 1947
+1513690,Miguel Alcubierre,Mexico, 1964
+37774136,Mihajlo Idvorski Pupin,Serbia, 1858
+63358,Mikhail Lavrentyev,Kazakhstan, 1900
+63375,Mikhail Lomonosov,Denmark, 1711
+19029045,Mikhail Shifman,Russia (USSR), 1949
+29422226,Mikhail Vasilievich Ostrogradsky,Russia (USSR), 1801
+1229889,Mildred Dresselhaus,United States (U.S.A), 1930
+42125461,Milla Baldo-Ceolin,Italy, 1924
+23207446,Milton S. Plesset,United States (U.S.A), 1908
+61367635,Mina Aganagic,United States (U.S.A), 1970
+1093540,Mitchell Feigenbaum,United States (U.S.A), 1944
+17077982,Moses H. W. Chan,Singapore, 1946
+63120379,Moshe Kaveh,Israel, 1943
+23794402,Moustafa Mosharafa,Egypt, 1898
+20476,Murray Gell-Mann,United States (U.S.A), 1929
+66945372,Mustapha Ishak Boushaki,Bulgaria, 1967
+38330160,Naomi Ginsberg,United States (U.S.A), 1979
+4590201,Nathan Isgur,Canada, 1947
+711870,Nathan Rosen,Israel, 1909
+645166,Nathan Seiberg,United States (U.S.A), 1956
+38358903,Neil Ashby,United States (U.S.A), 1934
+733002,Neil Turok,South Africa, 1958
+1972777,Neil deGrasse Tyson,United States (U.S.A), 1958
+583633,Nevill Mott,United Kingdom (U.K.), 1905
+5058371,Nicholas Christofilos,Greece, 1916
+5803533,Nicola Cabibbo,Italy, 1935
+47259879,Nicola Spaldin,United Kingdom (U.K.), 1969
+396737,Nicolaas Bloembergen,Netherlands, 1920
+28220,Nicolas Léonard Sadi Carnot,France, 1796
+593659,Nicole Oresme,France, 1325
+1851836,Nicolás Cabrera,Spain, 1913
+21210,Niels Bohr,Denmark, 1885
+13432162,Nikolaus Riehl,Germany, 1901
+1555268,Nikolay Basov,Russia (USSR), 1922
+2582609,Nikolay Bogolyubov,Russia (USSR), 1909
+495272,Nikolay Semyonov,Russia (USSR), 1896
+18496241,Nikolay Sergeevich Krylov,Ukraine, 1917
+3140570,Nikolay Umov,Russia (USSR), 1846
+648024,Nima Arkani-Hamed,United States (U.S.A), 1972
+56814316,Nina Marković,Croatia, 1970
+50484130,Norman Foster Ramsey, Jr.,United States (U.S.A), 1915
+10602004,Oleg Losev,Taiwan, 1903
+5115787,Oleg Sushkov,Russia (USSR), 1950
+22831,Oliver Heaviside,United Kingdom (U.K.), 1850
+348879,Oliver Lodge,United Kingdom (U.K.), 1851
+36506517,Oriol Valls,India, 1947
+68487915,Orion Ciftja,United States (U.S.A), 1967
+321921,Osborne Reynolds,United Kingdom (U.K.), 1842
+1632343,Oscar Sala,Brazil, 1922
+300650,Oskar Klein,Sweden, 1894
+790051,Otto Frisch,Austria, 1904
+46825,Otto Hahn,Germany, 1879
+9512856,Otto Scherzer,Germany, 1909
+396496,Otto Stern,Germany, 1888
+385864,Owen Chamberlain,United States (U.S.A), 1920
+515769,Owen Willans Richardson,United Kingdom (U.K.), 1879
+16988163,Pamela L. Gay,United States (U.S.A), 1973
+1354698,Pascual Jordan,Germany, 1902
+326834,Patrick Blackett,United Kingdom (U.K.), 1897
+20549291,Paul Crowell,United States (U.S.A), 1960
+545745,Paul Davies,Australia, 1946
+24742,Paul Dirac,Switzerland, 1902
+1916867,Paul Drude,Germany, 1863
+78958,Paul Ehrenfest,Austria, 1880
+3334797,Paul G. Hewitt,United States (U.S.A), 1931
+11629965,Paul Harteck,Germany, 1902
+22930151,Paul J. Steinhardt,United States (U.S.A), 1952
+20792818,Paul John Ellis,United States (U.S.A), 1941
+681413,Paul Langevin,France, 1872
+780640,Paul Peter Ewald,Germany, 1888
+23772507,Pavel Alekseyevich Cherenkov,Russia (USSR), 1904
+2029502,Per-Olov Löwdin,Sweden, 1916
+396507,Percy Williams Bridgman,United States (U.S.A), 1882
+3686251,Pervez Hoodbhoy,Pakistan, 1950
+13318208,Peter Adolf Thiessen,Germany, 1899
+205501,Peter Andreas Hansen,Denmark, 1795
+37067,Peter Debye,Netherlands, 1884
+19876444,Peter Freund,United States (U.S.A), 1936
+4937891,Peter Goddard (physicist),United Kingdom (U.K.), 1945
+1805003,Peter Grünberg,Germany, 1939
+339050,Peter Higgs,United Kingdom (U.K.), 1929
+336052,Peter Mansfield,United Kingdom (U.K.), 1933
+1472234,Petr Paucek,United States (U.S.A), 1970
+63524922,Philip Warren Anderson,United States (U.S.A), 1923
+393676,Philipp Lenard,Hungary, 1862
+38295906,Phyllis S. Freier,United States (U.S.A), 1921
+9069177,Piara Singh Gill,India, 1911
+575754,Pierre-Gilles de Gennes,France, 1932
+344783,Pierre-Simon Laplace,France, 1749
+24509,Pierre Curie,France, 1859
+144230,Pierre Louis Dulong,France, 1785
+4120162,Pieter van Musschenbroek,Netherlands, 1692
+396539,Polykarp Kusch,Germany, 1911
+1287350,Predhiman Krishan Kaw,India, 1948
+4904312,Predrag Cvitanović,Croatia, 1946
+303650,Pyotr Kapitsa,Russia (USSR), 1894
+9576503,Pyotr Nikolaevich Lebedev,Russia (USSR), 1866
+343445,Qian Xuesen,China, 1911
+40470232,Rabindra Mohapatra,United States (U.S.A), 1944
+4191552,Rafael Sorkin,United States (U.S.A), 1945
+16902456,Rainer K. Sachs,Germany, 1932
+318878,Rainer Weiss,United States (U.S.A), 1932
+1273628,Ralph Asher Alpher,United States (U.S.A), 1921
+718966,Ralph H. Fowler,United Kingdom (U.K.), 1889
+3305981,Ralph Kronig,Germany, 1904
+25228525,Ramón E. López,United States (U.S.A), 1959
+38399073,Ranjan Roy Daniel,India, 1923
+473634,Rashid Sunyaev,Russia (USSR), 1943
+37531982,Ratko Janev,Italy, 1939
+32426720,Ravi Gomatam,India, 1950
+5479491,Ray Mackintosh,United Kingdom (U.K.), 1930
+50660205,Raymond Davis, Jr.,United States (U.S.A), 1914
+31726273,Raymond Seeger,United States (U.S.A), 1906
+4553622,Raymond T. Birge,United States (U.S.A), 1887
+8929485,Raúl Rabadán,United States (U.S.A), 1974
+162654,René Antoine Ferchault de Réaumur,France, 1683
+25525,René Descartes,France, 1596
+447314,Revaz Dogonadze,Russia (USSR), 1931
+12732779,Ricardo Carezani,Argentina, 1921
+39960632,Riccardo Barbieri,Italy, 1944
+101136,Riccardo Giacconi,United States (U.S.A), 1931
+47281648,Riccardo Rattazzi,Italy, 1964
+1561278,Richard A. Muller,United States (U.S.A), 1944
+16799509,Richard Clegg,United Kingdom (U.K.), 1960
+3831709,Richard Dalitz,United States (U.S.A), 1925
+30864794,Richard E. Taylor,United Kingdom (U.K.), 1886
+25523,Richard Feynman,United States (U.S.A), 1918
+63554182,Richard Keith Ellis,United States (U.S.A), 1949
+21214306,Richard Makinson,Australia, 1913
+661242,Robbert Dijkgraaf,Netherlands, 1960
+9551008,Robert Adler,United States (U.S.A), 1913
+684753,Robert B. Laughlin,United States (U.S.A), 1950
+1432131,Robert B. Leighton,United States (U.S.A), 1919
+50237,Robert Boyle,Ireland, 1627
+2206099,Robert Coleman Richardson,United States (U.S.A), 1937
+23814012,Robert D. Richtmyer,India, 1910
+14501692,Robert Döpel,Germany, 1895
+34337909,Robert G. Sachs,United States (U.S.A), 1916
+102095,Robert Hofstadter,United States (U.S.A), 1915
+49720,Robert Hooke,Australia, 1635
+3095639,Robert K. Logan,United States (U.S.A), 1939
+4025280,Robert Marshak,United States (U.S.A), 1916
+9599483,Robert Millikan,United States (U.S.A), 1868
+347188,Robert Mills (physicist),United States (U.S.A), 1927
+47650835,Robert Oppenheimer,United States (U.S.A), 1904
+39049,Robert S. Mulliken,United States (U.S.A), 1896
+1074789,Robert Serber,United States (U.S.A), 1909
+3356173,Robert von Lieben,Austria, 1878
+26193,Roger Penrose,United Kingdom (U.K.), 1931
+1385519,Rolf Landauer,United States (U.S.A), 1927
+4352433,Roman Jackiw,Poland, 1939
+13312328,Roman U. Sexl,Austria, 1939
+177714,Ronald E. McNair,United States (U.S.A), 1950
+90472,Rosalind Franklin,United Kingdom (U.K.), 1920
+2830958,Roy J. Glauber,United States (U.S.A), 1925
+152092,Royal Prussia,Germany, 1861
+1480531,Ruby Payne-Scott,Australia, 1912
+23747681,Rudjer Josip Boscovich,Croatia, 1711
+175146,Rudolf Clausius,Germany, 1822
+1498615,Rudolf Haag,Germany, 1922
+231308,Rudolf Mössbauer,Germany, 1929
+1024759,Rudolf Peierls,Germany, 1907
+499679,Russell Alan Hulse,United States (U.S.A), 1950
+3118596,Ryogo Kubo,Japan, 1920
+3915397,Sam Treiman,United States (U.S.A), 1925
+252048,Samuel C. C. Ting,United States (U.S.A), 1936
+1461224,Samuel Goudsmit,Netherlands, 1902
+2594225,Samuel King Allison,United States (U.S.A), 1900
+598409,Samuel T. Durrance,United States (U.S.A), 1943
+4704322,Samuel Tolansky,United Kingdom (U.K.), 1907
+53144643,Sanja Damjanović,Serbia, 1972
+71777,Satyendra Nath Bose,India, 1894
+1440742,Saul Perlmutter,United States (U.S.A), 1959
+3046828,Savas Dimopoulos,United States (U.S.A), 1952
+660185,Scott Diddams,United States (U.S.A), 1960
+27291271,Semen Altshuler,Serbia, 1911
+14661857,Serge Haroche,France, 1944
+3305678,Serge Rudaz,Canada, 1954
+20436586,Sergei Tyablikov,Russia (USSR), 1921
+1243539,Sergei Vavilov,Ukraine, 1891
+65186401,Serguei Krasnikov,Russia (USSR), 1961
+1451702,Seth Lloyd,United States (U.S.A), 1960
+1074739,Seth Neddermeyer,United States (U.S.A), 1907
+396721,Sheldon Glashow,United States (U.S.A), 1932
+1102000,Shen Kuo,China, 1031
+653011,Shiraz Minwalla,India, 1972
+170464,Shirley Ann Jackson,United States (U.S.A), 1946
+21262683,Shoichi Sakata,Japan, 1911
+3067252,Sidney Drell,United States (U.S.A), 1926
+8454633,Sidney Redner,Canada, 1951
+63383473,Silke Bühler-Paschen,Austria, 1967
+70341903,Silke Ospelkaus,Germany, 1970
+443879,Simon Newcomb,United States (U.S.A), 1835
+72586,Simon Stevin,Belgium, 1548
+751419,Simon van der Meer,Netherlands, 1925
+44670,Siméon Denis Poisson,France, 1781
+50330770,Sin-Itiro Tomonaga,Japan, 1906
+27710,Sir Isaac Newton,Australia, 1642
+160833,Sir William Crookes,United Kingdom (U.K.), 1832
+3308650,Sixto González,United States (U.S.A), 1965
+15137682,Stanislav Mikheyev,Russia (USSR), 1940
+41531,Stanislaw Ulam,Poland, 1909
+19376148,Stephen Hawking,United Kingdom (U.K.), 1942
+1923692,Stephen L. Adler,United States (U.S.A), 1939
+20077885,Stephen Paul (physicist),United States (U.S.A), 1953
+7963444,Steven Chu,United States (U.S.A), 1948
+16868055,Steven Frautschi,United States (U.S.A), 1933
+205859,Steven Weinberg,United States (U.S.A), 1915
+145319,Subrahmanyan Chandrasekhar,United States (U.S.A), 1910
+63548048,Subrata Roy (scientist),India, 1960
+30845983,Sudhansu Datta Majumdar,India, 1915
+710106,Sumio Iijima,Japan, 1939
+30829189,Susumu Okubo,United States (U.S.A), 1930
+16825957,Swapan Chattopadhyay,India, 1951
+2808225,Sylvester James Gates,United States (U.S.A), 1950
+12846187,T. H. Laby,Australia, 1880
+27145023,Tahir Hussain (physicist),Pakistan, 1923
+48079158,Takaaki Kajita,Japan, 1959
+68784909,Tamitha Skov,South Korea, 1970
+38496955,Tanya Monro,Australia, 1973
+18907864,Terence James Elkins,United States (U.S.A), 1936
+7390988,Thanu Padmanabhan,India, 1957
+338817,Theodor Kaluza,Germany, 1885
+2831019,Theodor W. Hänsch,Germany, 1941
+275419,Theodore Maiman,United States (U.S.A), 1927
+194063,Theodore von Kármán,Hungary, 1881
+847438,Thomas Corwin Mendenhall,United States (U.S.A), 1841
+29778,Thomas Edison,United States (U.S.A), 1847
+1042219,Thomas H. Stix,United States (U.S.A), 1924
+88254,Thomas Johann Seebeck,Slovenia, 1770
+35004230,Toichiro Kinoshita,United States (U.S.A), 1925
+19413327,Tom Baehr-Jones,United States (U.S.A), 1980
+1190915,Tom Banks (physicist),United States (U.S.A), 1949
+10899167,Toshihide Maskawa,Japan, 1940
+252081,Tsung-Dao Lee,United States (U.S.A), 1926
+1615228,Tullio Regge,Italy, 1931
+1933579,Twersky,United States (U.S.A), 1923
+30027,Tycho Brahe,Denmark, 1546
+56875216,Ulrike Diebold,Austria, 1961
+62948318,Uri Sivan,Israel, 1955
+6779545,V. Balakrishnan (physicist),India, 1943
+396733,Val Logsdon Fitch,United States (U.S.A), 1923
+4454255,Valentine Telegdi,Hungary, 1922
+56873907,Valerie Gibson,United Kingdom (U.K.), 1970
+68919598,Vania Jordanova,United Kingdom (U.K.), 1940
+472972,Vera Rubin,United States (U.S.A), 1928
+54296814,Veronika Hubeny,United States (U.S.A), 1960
+396482,Victor Francis Hess,Austria, 1883
+38106959,Victor Frederick Weisskopf,Austria, 1908
+1104242,Vikram Sarabhai,India, 1919
+621989,Viktor Ambartsumian,Ukraine, 1908
+15846233,Viktor Dilman,Russia (USSR), 1926
+476425,Vilhelm Bjerknes,Norway, 1862
+63054580,Vipin Kumar Tripathi,India, 1948
+339208,Vitaly Ginzburg,Russia (USSR), 1916
+789472,Vladimir Fock,Russia (USSR), 1898
+16874778,Vladimir Gribov,Russia (USSR), 1930
+28337790,Vlatko Vedral,United Kingdom (U.K.), 1971
+6695716,W.W. Hansen,United States (U.S.A), 1909
+35787137,Walter Boas,Germany, 1904
+8353825,Walter Franz,Germany, 1911
+59835185,Walter Gerlach,Germany, 1889
+246299,Walter H. Schottky,Germany, 1886
+2286435,Walter Heitler,Germany, 1904
+33133,Walter Houser Brattain,United States (U.S.A), 1902
+1611852,Walter Lewin,Netherlands, 1936
+9187093,Walter Marshall, Baron Marshall of Goring,United Kingdom (U.K.), 1932
+358425,Walther Bothe,Germany, 1891
+8265781,Walther Kossel,Germany, 1888
+985295,Walther Ritz,Switzerland, 1878
+2604510,Wander Johannes de Haas,Netherlands, 1878
+59695771,Wang Dezhao,China, 1905
+42740117,Wang Enge,China, 1957
+58988024,Wang Huanyu,China, 1954
+32580646,Wang Pu (physicist),India, 1902
+18195047,Wang Zhuxi,China, 1911
+10034449,Ward Plummer,United States (U.S.A), 1940
+33130,Werner Heisenberg,Germany, 1901
+2079780,Werner Israel,Canada, 1931
+37236,Wernher Von Braun,Germany, 1912
+191803,Wilhelm Eduard Weber,Germany, 1804
+61325,Wilhelm Röntgen,Germany, 1845
+3626302,Willard Boyle,Ireland, 1627
+6265830,Willebrord Snell,Netherlands, 1580
+1092942,Willem 's Gravesande,Netherlands, 1688
+113455,Willem Hendrik Keesom,Netherlands, 1876
+591375,Willem de Sitter,Netherlands, 1872
+12931723,William A. Bardeen,United States (U.S.A), 1941
+577678,William Alfred Fowler,United States (U.S.A), 1911
+9482763,William Allis,United States (U.S.A), 1901
+630823,William Daniel Phillips,United States (U.S.A), 1948
+704307,William Eccles (physicist),United Kingdom (U.K.), 1875
+55653321,William Fuller Brown, Jr.,United States (U.S.A), 1904
+62315183,William Gilbert (astronomer),Australia, 1544
+396459,William Henry Bragg,United Kingdom (U.K.), 1862
+56424134,William Lawrence Bragg,United Kingdom (U.K.), 1862
+507412,William Markowitz,United States (U.S.A), 1907
+210351,William Prout,United Kingdom (U.K.), 1785
+4362516,William R. Kanne,United States (U.S.A), 1913
+39817,William Rowan Hamilton,Ireland, 1805
+33132,William Shockley,United States (U.S.A), 1910
+33302,William Thomson, 1st Baron Kelvin,India, 1824
+9251267,William V. Houston,United States (U.S.A), 1900
+13515603,Willibald Peter Prasthofer,Austria, 1917
+456746,Willis Lamb,United States (U.S.A), 1913
+2864717,Willy Fischler,Belgium, 1949
+172253,Woldemar Voigt,Germany, 1850
+11005811,Wolfgang Finkelnburg,Germany, 1905
+68258615,Wolfgang K. H. Panofsky,Germany, 1919
+711990,Wolfgang Ketterle,Germany, 1957
+595186,Wolfgang Paul,Germany, 1913
+33972,Wolfgang Pauli,Austria, 1900
+52629828,Xiaoyi Bao,Canada, 1960
+3144661,Yakov Frenkel,Russia (USSR), 1894
+56280158,Yakov Lvovich Alpert,Russia (USSR), 1911
+3614758,Yasha Rosenfeld,Israel, 1948
+1063160,Yoichiro Nambu,United States (U.S.A), 1921
+14030001,Yoji Totsuka,Japan, 1942
+43928999,Yoshinori Tokura,Japan, 1954
+58678138,Yulii Borisovich Khariton,Russia (USSR), 1904
+24775480,Yuri Feodorovich Orlov,Russia (USSR), 1924
+33799154,Yuri Oganessian,Russia (USSR), 1933
+1925384,Yuval Ne'eman,Israel, 1925
+70566831,Zaira Ollano,Italy, 1904
+9597286,Zhores Ivanovich Alferov,Russia (USSR), 1930
+2154485,Zoltán Lajos Bay,Hungary, 1900
+5591609,Émile Verdet,France, 1824
+1002045,Émilie du Châtelet,France, 1706
+7062457,Étienne-Gaspard Robert,Belgium, 1763
+168115,Étienne-Louis Malus,France, 1775
+3241786,Anthony Zee,United States (U.S.A), 1945
+918635,Anton Zeilinger,Austria, 1945
+4126306,Antonino Zichichi,Italy, 1929
+231158,Arthur Wightman,United States (U.S.A), 1922
+1247296,Barton Zwiebach,United States (U.S.A), 1954
+2408809,Basilis C. Xanthopoulos,Greece, 1951
+4850059,Bruno Zumino,Italy, 1923
+242243,Carl Wieman,United States (U.S.A), 1951
+577665,Charles Thomson Rees Wilson,United Kingdom (U.K.), 1869
+41127298,Chen Ning Yang,China, 1922
+252131,Chien-Shiung Wu,United States (U.S.A), 1912
+53026250,Christine Wilson (scientist),India, 1960
+32604135,Christof Wetterich,Germany, 1952
+16214998,Daniel Zajfman,Israel, 1959
+24626957,David J. Wineland,United States (U.S.A), 1944
+20354107,Dmitry Zubarev,Russia (USSR), 1917
+54894,Edward Witten,United States (U.S.A), 1951
+5279320,Emil Wiechert,Germany, 1861
+439470,Emil Wolf,United States (U.S.A), 1922
+10101,Eugene Wigner,Austria, 1902
+5600133,Ewald Wollny,Germany, 1846
+19678355,Francisco José Ynduráin,Spain, 1940
+275603,Frank Wilczek,United States (U.S.A), 1951
+1349757,Fred Alan Wolf,United States (U.S.A), 1934
+244666,Frits Zernike,Netherlands, 1888
+49265169,Félix Ynduráin,Spain, 1946
+1051279,George Zweig,United States (U.S.A), 1937
+41470072,Georges Zissis,Greece, 1964
+56595279,Gian-Carlo Wick,Italy, 1909
+8100183,Gregor Wentzel,Germany, 1898
+30396488,Hans Ziegler (physicist),Switzerland, 1910
+187544,Hermann Weyl,Germany, 1885
+187670,Hideki Yukawa,Japan, 1907
+15912676,Jan Zaanen,Netherlands, 1957
+327127,John Archibald Wheeler,United States (U.S.A), 1911
+34364579,John R. Winckler,United States (U.S.A), 1918
+4435042,John Zeleny,United States (U.S.A), 1872
+11609092,Karl Wirtz,Germany, 1910
+1722881,Karl Zimmer,Germany, 1911
+396743,Kenneth G. Wilson,United States (U.S.A), 1936
+38754146,Kenneth Young (physicist),China, 1947
+3241721,Lincoln Wolfenstein,United States (U.S.A), 1923
+12416768,Ludwig Zehnder,Switzerland, 1854
+855843,Mark B. Wise,Canada, 1953
+4444520,Michael Woolfson,United Kingdom (U.K.), 1927
+5693764,Paul Werbos,United States (U.S.A), 1947
+8401814,Peter Westervelt,United States (U.S.A), 1919
+6947000,Peter Zoller,Austria, 1952
+209271,Pieter Zeeman,Netherlands, 1865
+590219,Robert R. Wilson,United States (U.S.A), 1914
+318514,Robert Woodrow Wilson,United States (U.S.A), 1936
+43777652,Robert Zwanzig,United States (U.S.A), 1928
+727469,Rosalyn Yalow,United States (U.S.A), 1921
+38752426,Sau Lan Wu,United States (U.S.A), 1940
+72073025,Siebren van der Werf,Netherlands, 1942
+52469,Stephen Wolfram,United Kingdom (U.K.), 1959
+19871341,Tai Tsun Wu,United States (U.S.A), 1933
+51624,Thomas Young (scientist),United Kingdom (U.K.), 1773
+149626,Wilhelm Wien,Germany, 1864
+1102395,Wojciech H. Zurek,Poland, 1951
+59317748,Yakov Borisovich Zel'dovich,Russia (USSR), 1914
