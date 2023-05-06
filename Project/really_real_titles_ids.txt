@@ -277,7 +277,7 @@
 21664797,Floyd K. Richtmyer,India, 1910
 16172297,Francis G. Slack,United States (U.S.A), 1897
 415958,Frank J. Tipler,United States (U.S.A), 1947
-604168,Franz Aepinus,Israel, 1724
+604168,Franz Aepinus,Germany, 1724
 64086299,Franz Mandl (physicist),United Kingdom (U.K.), 1923
 8867477,Franz S. Exner,Austria, 1849
 44669,François Arago,France, 1786
