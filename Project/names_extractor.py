@@ -122,12 +122,3 @@ def clean_article(text):
             writer.writerow([string])
     return text_list
 
-# article_title = 'List_of_physicists'
-
-# article_text = get_wikipedia_article_text(article_title)
-# text_list = clean_article(article_text)
-# results_list = []
-# for name in text_list:
-#     results_list.append(wikipedia.search(name)[0])
-#
-# print(results_list)
