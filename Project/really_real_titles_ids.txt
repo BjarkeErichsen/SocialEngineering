@@ -33,7 +33,7 @@
 1923,Alessandro Volta,Italy, 1745
 30213963,Alexander Animalu,Peru, 1938
 22064401,Alexander Friedman,Russia (USSR), 1888
-852,Alexander Graham Bell,United States (U.S.A), 1847
+852,Alexander Graham Bell,United Kingdom (U.K.), 1847
 4854533,Alexander M. Polyakov,Russia (USSR), 1945
 156089,Alexander Prokhorov,Russia (USSR), 1916
 18862008,Alexander R. Hamilton,Australia, 1967
